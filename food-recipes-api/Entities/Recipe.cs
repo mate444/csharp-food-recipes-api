@@ -9,5 +9,8 @@
         public string Instructions { get; set; }
         public int Score { get; set; }
         public int HealthScore { get; set; }
+        public string Image { get; set; }
+        public string Summary { get; set; }
+
     }
 }
